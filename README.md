@@ -14,3 +14,7 @@ Password confirmation,
 Expense Tracking (calculates balance from income and expenses),
 Timeline(display the entries of the expense tracking in a table)
 
+
+
+https://github.com/berryrae05/PersonalFinanceApp/assets/141364944/b9c7d833-3b04-427b-bf22-47c3fc4af048
+
